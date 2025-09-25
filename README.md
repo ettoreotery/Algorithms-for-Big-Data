@@ -1,1 +1,1 @@
-# AMD-project-DSE-25
+Similarity detection for book reviews on Big Datasets.
